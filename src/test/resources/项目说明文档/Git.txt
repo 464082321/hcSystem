@@ -7,7 +7,7 @@
 1.在我们的项目根目录hcSystem的文件夹上初始化仓库
 	除了src文件夹、pom.xml和.ignore文件之外，其他文件都设置忽略
 	设置忽略直接编辑.ignore文件添加相应的描述
-	比如要忽略target以及下面的文件就添加/target/*
+	比如要忽略target以及下面的文件就添加target
 	
 2.在github上面增加一个仓库
 	git@github.com:464082321/hcSystem.git
