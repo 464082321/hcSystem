@@ -15,4 +15,5 @@
 3.用TortoiseGit设置本地仓库与远程仓库关联
 	TortoiseGit-->settings-->Remote
 	URL:git@github.com:464082321/hcSystem.git
-	Remote:如果没自动生成就手动输入origin	
+	Remote:如果没自动生成就手动输入origin
+	commit并push本地文件至远程仓库	
